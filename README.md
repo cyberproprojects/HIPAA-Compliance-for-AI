@@ -4,48 +4,52 @@
 ## Document Information
 | Field | Value |
 |-------|-------|
-| Organization | [Company Name] |
-| Assessment Date | [Date] |
-| Assessor | [Your Name] |
-| Version | 1.0 |
+| Organization | Kaiser Permanente|
+| Assessor | T. Thurman |
+
 
 ---
 
 ## 1. Executive Summary
 
 ### Scope Statement
-[One paragraph describing the boundaries of the CDE]
+Research AI companies to integrate with our MIoT (Medical Internet of Things) devices.
+Ensure AI Model is HIPAA compliant and works well with MIoT devices for our company.
+Ensure AI Vendor is HIPAA-eligible as well as determining if the agent configuration with our MIoT is HIPAA-compliant.
+Review if AI company uses a cloud-based server vs. a onsite server. (Azure AI/OpenAI, Google Vortex/Gemini, AWS Bedrock/claude-meta)
+Once AI Vendor is HIPAA-eligible and HIPAA-compliant draft a BAA for the AI company.
+Ensure BAA includes AI vendor is a business associate willing to adhere to protecting PHI(Protected Health Information).
 
-### Key Findings
+
+### Key Findings on HIPAA-eligible AI Models
 - [ ] Finding 1
 - [ ] Finding 2
 - [ ] Finding 3
 
-### Overall Risk Rating
+### Key Findings on HIPAA-compliant AI Models
+- [ ] Finding 1
+- [ ] Finding 2
+- [ ] Finding 3
+
+### Overall Risk Rating for Option 1
 [ ] Low | [ ] Medium | [ ] High | [ ] Critical
 
+### Overall Risk Rating for Option 2
+[ ] Low | [ ] Medium | [ ] High | [ ] Critical
 ---
 
-## 2. Cardholder Data Environment Definition
 
-### 2.1 Systems That STORE Cardholder Data
+### 2.1 Past MIoT Devices for 
 
 | System Name | Data Types Stored | Retention Period | Justification |
 |-------------|------------------|------------------|---------------|
 | | | | |
 | | | | |
 
-### 2.2 Systems That PROCESS Cardholder Data
+### 2.2 Past MIoT Devices for
 
 | System Name | Processing Function | Data Elements | Justification |
 |-------------|---------------------|---------------|---------------|
-| | | | |
-| | | | |
-
-### 2.3 Systems That TRANSMIT Cardholder Data
-
-| System Name | Transmission Path | Encryption | Justification |
-|-------------|-------------------|------------|---------------|
 | | | | |
 | | | | |
 
@@ -123,9 +127,9 @@
 
 ---
 
-## 7. QSA Challenge Preparation
+## QSA Challenge Preparation
 
-### 7.1 Anticipated Questions
+### Prepared Questions for 
 
 | Area | Likely Question | Your Response | Evidence |
 |------|-----------------|---------------|----------|
@@ -138,24 +142,20 @@
 
 ## 8. Recommendations
 
-### 8.1 Immediate Actions (0-30 days)
+### Cloud-based vs. On Site
 1. [ ]
 2. [ ]
 3. [ ]
 
-### 8.2 Short-Term Actions (30-90 days)
+### 8.2 Multi-cloud with Multi-AI Models
 1. [ ]
 2. [ ]
 3. [ ]
 
-### 8.3 Long-Term Actions (90+ days)
-1. [ ]
-2. [ ]
-3. [ ]
 
 ---
 
-## 9. Residual Risk Statement
+## 9. Business Associate Agreement for 
 
 After implementing recommendations, the following risks remain:
 
@@ -166,20 +166,7 @@ After implementing recommendations, the following risks remain:
 
 ---
 
-## Appendices
 
-### A. Network Diagram
-[Insert or reference diagram]
-
-### B. Data Flow Diagram
-[Insert or reference diagram]
-
-### C. Evidence Index
-| Evidence ID | Description | Location |
-|-------------|-------------|----------|
-| | | |
-
----
 
 ## Approval
 
