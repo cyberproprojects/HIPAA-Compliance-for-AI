@@ -21,17 +21,17 @@ Once AI Vendor is HIPAA-eligible and HIPAA-compliant draft a BAA for the AI comp
 Ensure BAA includes AI vendor is a business associate willing to adhere to protecting PHI(Protected Health Information).
 
 
-### Key Findings on HIPAA-eligible AI Models
-- [ ] Finding 1
-- [ ] Finding 2
-- [ ] Finding 3
+### Key Findings on Industry Healthcare AI Models
+- [Azure AI uses OpenAI for healthcare AI IoT] Finding 1
+- [Google Vortex uses Gemini] Finding 2
+- [AWS Bedrock uses Claude] Finding 3
 
 ### Key Findings on HIPAA-compliant AI Models
-- [ ] Finding 1
-- [ ] Finding 2
-- [ ] Finding 3
+- [All three companies (Azure, AWS, and Google are HIPAA compliant for Medical IoT AI integration.] Finding 1
+- [Azure is known for robust integration, AWS is known for healthcare ecosystem, and Google is known for large datasets and imaging.] Finding 2
+- [Each of the three companies use different cloud AI pipelines.] Finding 3
 
-### Overall Risk Rating for Option 1
+### Overall Risk Rating for AI Pipeline
 [ ] Low | [ ] Medium | [ ] High | [ ] Critical
 
 ### Overall Risk Rating for Option 2
@@ -39,14 +39,16 @@ Ensure BAA includes AI vendor is a business associate willing to adhere to prote
 ---
 
 
-### 2.1 Past MIoT Devices for 
+### 2.1 Research & Examples: 
+
+Past MIoT Devices for 
 
 | System Name | Data Types Stored | Retention Period | Justification |
 |-------------|------------------|------------------|---------------|
 | | | | |
 | | | | |
 
-### 2.2 Past MIoT Devices for
+Past MIoT Devices for
 
 | System Name | Processing Function | Data Elements | Justification |
 |-------------|---------------------|---------------|---------------|
