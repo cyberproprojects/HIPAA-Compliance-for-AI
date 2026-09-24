@@ -31,4 +31,4 @@ Review if AI company uses a cloud-based server vs. a onsite server. (Azure AI/Op
 
 
 ### AI Risk Register
-<a href="https://github.io">Risk Register Spreadsheet</a>
+<a href="AI Risk Register Template(1)(1).xlsx">Risk Register Spreadsheet</a>
