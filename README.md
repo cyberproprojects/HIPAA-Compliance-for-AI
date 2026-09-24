@@ -1,4 +1,4 @@
-# HIPAA-Compliance-for-AI
+# AI Risk Register
 
 
 ## Document Information
